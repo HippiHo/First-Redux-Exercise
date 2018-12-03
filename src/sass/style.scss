@@ -1,0 +1,27 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  margin: 1rem;
+  background-color: #3d9272;
+}
+
+img {
+  border: 1px solid white;
+}
+
+input {
+  margin-top: 1.5rem;
+  max-width: 70%;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.navbar {
+  background-color: #56c59b;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid white;
+  border-radius: 6px;
+}
